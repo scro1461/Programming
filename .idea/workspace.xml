@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc024b4d-7fc7-4629-9f96-d0f6011d08b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Python_test_project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_test_project/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_test_project/extract_text_html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_test_project/extract_text_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_test_project/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_test_project/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_test_project/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
     <session id="1282658338">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.opened" value="2" />
@@ -38,30 +39,24 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="71" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="71" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_test_project/code.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_test_project/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Python_test_project/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -82,8 +77,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/extract_text_html.py" />
-        <option value="$PROJECT_DIR$/Python_test_project/code.py" />
         <option value="$PROJECT_DIR$/Python_test_project/README.md" />
+        <option value="$PROJECT_DIR$/Python_test_project/code.py" />
       </list>
     </option>
   </component>
@@ -128,6 +123,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,16 +192,20 @@
     <entry file="file://$PROJECT_DIR$/Python_test_project/extract_text_html.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_test_project/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_test_project/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_test_project/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
