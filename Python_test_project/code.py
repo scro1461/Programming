@@ -1,21 +1,32 @@
 from tinydb import TinyDB, Query
+from bottle import route, run
 
-book_list = TinyDB('db.json')
+to_do_listDB = TinyDB('to_do.json')
 
-class Books:
-    def __init__(self, book_details):
-        self.book_details = book_list.insert({'Author': input('Enter Author: ')})
+to_do_listDB.insert({'Name':'Jamie'})
+to_do_listDB.insert({'Name':'Aimee'})
 
-def get_all():
-    for item in book_list:
+def printDB(a):
+    for item in a:
         print(item)
 
+@route('/todo')
+def todo():
+    return str(printDB(to_do_listDB))
+run()
 
-get_all()
 
-Author = Query()
-print ('This is the author I searched for', book_list.search(Author.Author == 'Skoczylis, Joshua'))
 
-book_list.update({'Author': 'Blair, Tony'}, Author.Author == 'Blair')
 
-get_all()
+
+
+
+
+
+
+
+
+
+
+
+
