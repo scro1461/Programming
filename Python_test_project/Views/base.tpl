@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <link rel="stylesheet" href="static_files/project.css">
+    <title>Home</title>
 </head>
 <body>
-<p> It worked. </p>
+
+
 </body>
 </html>
